@@ -2,7 +2,7 @@ Pong
 ====
 
 ![Screen Shot](https://raw.github.com/DeadHeadRussell/website/master/Servers/data/images/personalProjects/Pong.png)
-Format: ![AltText](Pong Screenshot)
+Format: ![Pong Screenshot](https://raw.github.com/DeadHeadRussell/website/master/Servers/data/images/personalProjects/Pong.png)
 
 This is a pong clone I made in Win32 / OpenGL when I was self-teaching myself these technologies.
 
