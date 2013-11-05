@@ -13,9 +13,9 @@ Thie project depends on the following:
 
 To compile and run, do the following (assuming MinGW was added to your path)
 ```bash
-    cd <pong_directory>
-    make
-    ./Pong.exe
+cd <pong_directory>
+make
+./Pong.exe
 ```
 
 ## Undocumented Keybindings
